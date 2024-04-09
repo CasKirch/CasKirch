@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Casper Kirch
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning more about deep learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in generative AI
+- 🌱 I’m currently going deep into structured output extraction using LLMs
+- 💞️ We provide generative AI consultancy for organizations
+- 📫 How to reach me: casper@genaicademy.com
 
 <!---
 CasKirch/CasKirch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
